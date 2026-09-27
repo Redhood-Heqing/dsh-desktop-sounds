@@ -6,7 +6,7 @@
 
 ## v1.0.0 安装发布
 
-创建 `v1.0.0` Release，说明中写明 Windows 11 x64、Work / Codex 范围及两个已核验版本。将分发目录中的 EXE、安装说明.txt、SHA256.txt、LICENSE.txt 作为附件，也可同时提供安装分发 ZIP。
+`v1.0.0` Release 已发布，说明中写明 Windows 11 x64、Work / Codex 范围及两个已核验版本。发布附件包含安装分发 ZIP、DSH-Desktop-Sounds-Setup.exe、INSTALL.txt、LICENSE.txt、GITHUB-SHA256.txt 和 SHA256-inside-ZIP.txt。前一校验文件对应 GitHub 附件名，后一校验文件对应 ZIP 内中文文件名。
 
 普通用户应下载 EXE 或安装分发 ZIP；自动生成的 Source code ZIP 是开发源码。GitHub Releases 支持软件说明和二进制附件，见 [GitHub 官方说明](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) 与 [发布步骤](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)。
 

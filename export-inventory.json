@@ -36,10 +36,10 @@
     "client/PcmPlayer.cs": "58a826a1310dee08102300d7fd75a922437caf5ca1ed01a284d42fc91cc711eb",
     "client/Setup.ps1": "944ca167f6c58ed8f507b2dd4430305e2ad34978623a3297be9b3e83beb806fa",
     "client/test.ps1": "175eb1fdc50cbe0cb9d1094fa827348fbf0e23472f52a4aadae03dde8d716daf",
-    "docs/PUBLISHING.md": "74dd4e9f04e1382ab1ac6f6a0c81c5d6f7ccf9ef89fb0814c8871e0e5bf39a20",
+    "docs/PUBLISHING.md": "fa00455612f5c6f70fa8c3849489be04107fd7fe859195db3ce00d574b282d35",
     "docs/VALIDATION.md": "806c55766f4aefc197b844c496ea000bb5e051c266b57403bb191bb9580bc9a9",
     "docs/WEBSITE_COPY.md": "52f18716b7af9be5176ced3ac7cfce2d0434f76d3c2159ea9e92e1326e86c8f8",
-    "export-verification.json": "238716e285dbe12c266d20b4c02ca2dbc4be00d2429e6533654df23456ddba01",
+    "export-verification.json": "be586203a90876167264d9cdfaffa300b9a460867eb01f5f99770ca4698d2562",
     "installer/app.manifest": "576d23c323ffd686a5d923062683b3caa66e63a5a053c223724f0a7b2295ad34",
     "installer/build.ps1": "2159719975886546b3476c946f8ab48082dda0888da0172a2697452b937cfa1e",
     "installer/Installer.cs": "74ff2df258a6ffdf6298f993c71d231610245d846b091d7824a8c83a1c40423b",
@@ -48,7 +48,7 @@
     "installer/Uninstall.ps1": "f45daff257d8b4bbd10641a5a335971b95a72eaed7b3872b550d512775b7bd0a",
     "installer/给使用者.txt": "3ddb59b5878a2afa6d230e5b18c9e4fd58e2f43367481d231b49df4115fbeb3b",
     "LICENSE": "b24d042d9fc2fcecc0ee55c96661c1354bdfb52c9294b9bc6260351e814bca7d",
-    "README.md": "1f5174aa546e3e4b36001ca6301890cc721e9d1388f309669b20e9179c20186e",
+    "README.md": "2499de25deb59437626598eef53d3d608a8a72f2a51508749bd11008f1850d84",
     "SOURCE_LICENSE_STATUS.md": "df7a53901382e748dd8a2ef998eb3d41353fc1664fb3e79ad07c1f28c2907d49",
     "THIRD_PARTY_NOTICES.md": "c51b812825c5f47ce778809b9090e08a39a798ed3e5c503901f5ef40166ba412"
   }

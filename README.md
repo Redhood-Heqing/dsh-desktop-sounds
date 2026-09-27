@@ -6,7 +6,9 @@
 
 ## 下载与安装
 
-请到本仓库的 [Releases](https://github.com/Redhood-Heqing/dsh-desktop-sounds/releases) 下载 `DSH桌面提示音_一键安装.exe`，或下载安装分发 ZIP 并解压；GitHub 的 `Source code (zip)` 是源码，不能直接安装。
+[直接下载 Windows 安装分发包](https://github.com/Redhood-Heqing/dsh-desktop-sounds/releases/download/v1.0.0/DSH-Desktop-Sounds-v1.0.0-Windows-x64.zip) · [v1.0.0 发布说明](https://github.com/Redhood-Heqing/dsh-desktop-sounds/releases/tag/v1.0.0)
+
+请到本仓库的 [Releases](https://github.com/Redhood-Heqing/dsh-desktop-sounds/releases) 下载 `DSH-Desktop-Sounds-Setup.exe`，或下载安装分发 ZIP 并解压（ZIP 内保留中文安装文件名）；GitHub 的 `Source code (zip)` 是源码，不能直接安装。
 
 1. 使用 Windows 11 x64，先安装并登录具有 Work / Codex 入口的兼容 GPT 桌面客户端。
 2. 双击安装 EXE，点击“一键安装 / 修复”。安装时会自动打开通知设置，请暂勿切换窗口。
