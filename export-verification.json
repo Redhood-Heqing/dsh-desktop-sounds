@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "at": "2026-09-27T05:38:29.057465+00:00",
+  "checks": [
+    {
+      "name": "clean source tree has no operational or build files",
+      "status": "PASS"
+    },
+    {
+      "name": "no known machine paths or credential patterns in text export",
+      "status": "PASS"
+    },
+    {
+      "name": "production C# sources unchanged",
+      "status": "PASS"
+    },
+    {
+      "name": "both licenses present",
+      "status": "PASS"
+    },
+    {
+      "name": "export six component suites passed",
+      "status": "PASS"
+    },
+    {
+      "name": "export nine configuration fixtures passed",
+      "status": "PASS"
+    },
+    {
+      "name": "export builds installer with both licenses",
+      "status": "PASS"
+    },
+    {
+      "name": "distributed EXE exactly matches installed and tested release",
+      "status": "PASS"
+    },
+    {
+      "name": "distributed checksum matches EXE",
+      "status": "PASS"
+    },
+    {
+      "name": "MIT project license accompanies tested binary",
+      "status": "PASS"
+    }
+  ],
+  "installerSha256": "acbd15dcfcd0bd70c6469fa5cfcfd716ce53a0d3d942b08b59a96edfff838ac5",
+  "componentSuites": [
+    {
+      "output": "PASS 22 settings, dedup, WAV, gain and host-setting rollback checks. File fixtures only; native-event evidence separate.",
+      "exitCode": 0,
+      "name": "state",
+      "synthetic": true
+    },
+    {
+      "output": "PASS 19 UTF-8 metadata projection checks; includes 2 MB discarded body, reordered patches and invalid-frame rejection.",
+      "exitCode": 0,
+      "name": "projection",
+      "synthetic": true
+    },
+    {
+      "output": "PASS 30 canonical state identity/outcome assertions; synthetic only.",
+      "exitCode": 0,
+      "name": "canonical",
+      "synthetic": true
+    },
+    {
+      "output": "PASS 5637 classification/dedup/quiet-transition assertions; synthetic component tests, not live product acceptance.",
+      "exitCode": 0,
+      "name": "gate",
+      "synthetic": true
+    },
+    {
+      "output": "PASS 12 default sound guard assertions; synthetic only.",
+      "exitCode": 0,
+      "name": "host-guard",
+      "synthetic": true
+    },
+    {
+      "output": "PASS 4 persisted location, no environment, migration and special-character path checks",
+      "exitCode": 0,
+      "name": "host-location",
+      "synthetic": true
+    }
+  ],
+  "boundary": "Export was rebuilt and component-tested; rebuilt binary was not installed. Distributed EXE is the unchanged previously installed and tested release. No second physical PC tested. Pattern scans cannot prove the absence of every possible secret."
+}

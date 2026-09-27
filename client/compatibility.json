@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "packageName": "OpenAI.Codex",
+  "windows": "Windows 11 x64",
+  "hosts": [
+    {"version": "26.924.1866.0", "sha256": "96b6aa6e1ea46dd8a30b3fa5166be12284ba66bd3901241a81a60684f150189d"},
+    {"version": "26.924.2738.0", "sha256": "89fba67324ffb8dd54ccf13b6f097172e697549eeb1f26396f86f972c10c5b0c"}
+  ]
+}

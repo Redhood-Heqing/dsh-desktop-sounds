@@ -1,0 +1,24 @@
+# Generated artifacts and private local state
+/dist/
+/build-results/
+/evidence/
+/.private-test-state/
+/publish/
+**/data/
+client/.*/
+installer/.*/
+installer/.*.zip
+*.exe
+*.dll
+*.obj
+*.pdb
+*.lnk
+*.log
+*.jsonl
+*.pfx
+*.p12
+*.pem
+*.key
+*.sqlite*
+.env*
+__pycache__/
